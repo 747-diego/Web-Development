@@ -1,6 +1,13 @@
 # Web-Development
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Finto-the-program.com%2Fkeyframes-animation-paused%2F&psig=AOvVaw1uCU_s9rQ_QIFlU3p3YdmP&ust=1594750149121000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICI7bfpyuoCFQAAAAAdAAAAABAD">
+<img src="https://into-the-program.com/uploads/keyframes-animation-paused.jpg">
+<hr>
 
 <h1> My Personal Portfolio </h1>
-<p> Hello! Thanks for diving in this far! This where it all began, the begining of my Web Development Journey. </p>
+<p> Hello! Thanks for diving in this far! 
+<br> This where it all began, the begining of my Web Development Journey. </p>
+
+<h3> What's Stored in here ? </h3>
+<p> As of right now I am atempting to create a personal site to host all of my past projects and experience. Only the projects that really stand out !! </p>
+
+<p> <a href="https://github.com/747-diego/Web-Development/tree/master/Web-Dev-Training"> <strong> So far these are my attempts 💻</strong> </a> </p>
